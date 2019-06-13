@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
          <div className="container">
-          
+          <h2>MERN-Stack todo app</h2>
           </div>
     );
   }
